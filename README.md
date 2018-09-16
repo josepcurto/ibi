@@ -6,5 +6,6 @@ Este repositorio contiene:
 
 - Materiales de Introducción a Tableau Desktop
 - Materiales de Introducción a Tableau Prep
-- Exemples curados de Tableau
+- Materiales de autoaprendizaje de Tableau Desktop
+- Ejemplos curados de Tableau
 - Guías de visualización de datos
