@@ -4,4 +4,5 @@ Repositorio adicional de la asignatura "Introducción al Business Intelligence" 
 
 Este repositorio contiene:
 
-- Materiales de Introducción a Tableau Desktop.
+- Materiales de Introducción a Tableau Desktop
+- Materiales de Introducción a Tableau Prep
